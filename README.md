@@ -1,5 +1,7 @@
 # jsTimezoneDetect-rails
 
+[![Gem Version](https://badge.fury.io/rb/jsTimezoneDetect-rails.svg)](http://badge.fury.io/rb/jsTimezoneDetect-rails)
+
 This is a wrapper for the [jsTimezoneDetect.js](https://bitbucket.org/pellepim/jstimezonedetect) library, which makes it ready for use with the asset pipeline, provided by Rails 4.0 and higher. The gem includes the non-minified version of the library.
 
 ## Installation
